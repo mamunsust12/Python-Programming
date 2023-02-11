@@ -16,4 +16,17 @@ Language Fundamentals: Python Basics
   
 Python Data type 
 
-  •	 Number, List, Tuple, Sets, String , dictionary
+  •	 Number, List, Tuple, Sets, String , dictionary, range()
+
+Python Control Statements
+
+  •	 if elif else, for, while
+  
+Python function & Array
+
+  •	 Function, Array, Lambda
+  
+Python Modules 
+
+  •	 NumPy, Pandas, SciPy
+  
